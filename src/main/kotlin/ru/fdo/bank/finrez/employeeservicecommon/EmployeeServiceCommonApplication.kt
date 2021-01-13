@@ -1,4 +1,4 @@
-package ru.fdo.bamk.finrez.employeeservicecommon
+package ru.fdo.bank.finrez.employeeservicecommon
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

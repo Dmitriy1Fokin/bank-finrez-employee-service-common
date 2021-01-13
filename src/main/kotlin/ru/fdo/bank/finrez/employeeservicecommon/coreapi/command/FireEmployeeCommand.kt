@@ -1,4 +1,4 @@
-package ru.fdo.bamk.finrez.employeeservicecommon.coreapi.command
+package ru.fdo.bank.finrez.employeeservicecommon.coreapi.command
 
 import org.axonframework.modelling.command.TargetAggregateIdentifier
 import java.time.LocalDate

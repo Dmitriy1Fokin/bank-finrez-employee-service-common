@@ -1,4 +1,4 @@
-package ru.fdo.bamk.finrez.employeeservicecommon.coreapi.query
+package ru.fdo.bank.finrez.employeeservicecommon.coreapi.query
 
 import org.springframework.data.domain.Pageable
 
