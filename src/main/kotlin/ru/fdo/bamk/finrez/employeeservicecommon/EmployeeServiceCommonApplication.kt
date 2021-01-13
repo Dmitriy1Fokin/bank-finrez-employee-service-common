@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class EmployeeServiceCommonApplication
+open class EmployeeServiceCommonApplication
 
 fun main(args: Array<String>) {
     runApplication<EmployeeServiceCommonApplication>(*args)
